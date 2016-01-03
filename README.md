@@ -1,2 +1,2 @@
 # nileshapi
-- api for personal financial assistant build on nodejs with hapijs
+- API for personal financial assistant app  build on nodejs with hapijs
